@@ -2,3 +2,8 @@ body
 {
     color:green;
 }
+
+a:hover
+{
+    background-color: #f2d9e6
+}
