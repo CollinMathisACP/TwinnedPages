@@ -20,7 +20,6 @@ a
 h1
 {
     font-size: 64px;
-    filter: invert(1) grayscale(1) contrast(9);
 }
 
 th
