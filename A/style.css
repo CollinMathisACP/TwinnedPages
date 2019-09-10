@@ -1,9 +1,30 @@
 body
 {
-    color:green;
+    background-image: url("../imgs/Healthy2.jpg");
+    filter: contrast(50%)
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+    color: #cc6699;
 }
 
 a:hover
 {
     background-color: #f2d9e6
+}
+
+a
+{
+    color: #cc6699;
+    font-size: 24px;
+}
+
+h1
+{
+    font-size: 64px;
+    filter: invert(1) grayscale(1) contrast(9);
+}
+
+th
+{
+    font-size: 48px;
 }
