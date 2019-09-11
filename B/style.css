@@ -8,6 +8,11 @@ body
     font-weight: bold
 }
 
+td
+{
+    border: 2px solid white;
+}
+
 a:hover
 {
     background-color: #99ccff;
@@ -34,4 +39,11 @@ h1
 th
 {
     font-size: 48px;
+    border: 2px solid white;
+}
+
+table
+{
+    border: 4px solid white;
+    border-collapse: collapse;
 }
