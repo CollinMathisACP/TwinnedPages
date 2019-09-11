@@ -1,15 +1,16 @@
 body
 {
-    background-image: url("../imgs/Pancakes.jpg");
-    background-repeat: no-repeat;
-    background-size: 1920px 1080px;
+    background-image: url("../imgs/foodb.jpg");
+     background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
     color: white;
     font-weight: bold
 }
 
 a:hover
 {
-    background-color: #f2d9e6
+    background-color: #99ccff;
 }
 
 title
@@ -26,6 +27,8 @@ a
 h1
 {
     font-size: 64px;
+    text-align: center
+    
 }
 
 th

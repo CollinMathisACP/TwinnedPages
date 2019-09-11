@@ -1,11 +1,16 @@
 body
 {
-    background-image: url("../imgs/Healthy2.jpg");
+    background-image: url("../imgs/Healthy.jpg");
     background-repeat: no-repeat;
-    background-size: 1920px 1080px;
+    background-position: center center;
+    background-attachment: fixed;
     color: #cc6699;
 }
 
+tr
+{
+    
+}
 a:hover
 {
     background-color: #f2d9e6
@@ -14,6 +19,7 @@ a:hover
 a
 {
     color: #cc6699;
+    text-shadow: 1px 1px 4px #993366;
     font-size: 24px;
 }
 
@@ -21,6 +27,8 @@ h1
 {
     font-size: 64px;
     color: #cc6699;
+    filter:blur(10);
+    text-align: center;
 }
 
 th
